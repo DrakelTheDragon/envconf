@@ -1,3 +1,3 @@
-module github.com/drakelthedragon/envconf
+module go.drakelthedragon.dev/envconf
 
-go 1.21.4
+go 1.22.5

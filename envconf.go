@@ -1,6 +1,6 @@
 package envconf
 
-import "github.com/drakelthedragon/envconf/internal"
+import "go.drakelthedragon.dev/envconf/internal"
 
 type StringVar struct{ internal.Var[string] }
 
